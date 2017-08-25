@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+ Copyright (C) 2008 ZXing authors
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ -->
+<resources>
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c099cc00</color> <!-- Android standard ICS color -->
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#60000000</color>
+
+    <!-- 对话框颜色 -->
+    <color name="color_2c4459">#2c4459</color>
+    <color name="color_28384a">#28384a</color>
+    <color name="color_00a8ff">#00a8ff</color>
+    <color name="color_ffffff">#ffffff</color>
+    <color name="color_e5e5e5">#e5e5e5</color>
+
+    <!-- 正在更新界面 -->
+    <color name="color_ecece9">#ecece9</color>
+    <color name="color_23b27d">#23b27d</color>
+
+    <!-- 正在更新界面 -->
+    <color name="color_b2b2b2">#b2b2b2</color>
+    <color name="color_636363">#636363</color>
+
+
+    <color name="color_000000">#000000</color>
+    <!--自定义圆形图像按钮-->
+    <color name="color_dc8842">#dc8842</color>
+    <color name="color_9e9083">#9e9083</color>
+    <!--状态提示文本-->
+    <color name="color_252527">#252527</color>
+    <!--已冲泡-->
+    <color name="color_de8c42">#de8c42</color>
+    <!--自定义扇形-->
+    <color name="color_56514d">#56514d</color>
+    <color name="color_66000000">#66000000</color>
+    <!--连接设备界面-->
+    <color name="color_ee8833">#ee8833</color>
+    <color name="color_66ee8833">#66ee8833</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="blue">#ffccddff</color>
+    <color name="grey">#58616d</color>
+    <color name="darkgrey">#ff404040</color>
+    <color name="toasterro">#9fd524</color>
+    <color name="lightgrey">#ff888888</color>
+    <color name="semitransparent">#80000000</color>
+    <color name="lightransparent">#a0000000</color>
+    <!--<color name="transparent">#00000000</color>-->
+    <color name="navpage">#FFE1E8EB</color>
+    <color name="rect_blue">#00fefe</color>
+
+    <!--顶部导航栏-->
+    <color name="color_8e1914">#8e1914</color>
+
+    <!--底部导航栏-->
+    <color name="color_9a9a9a">#9a9a9a</color>
+    <color name="color_333333">#333333</color>
+    <color name="color_8d1a17">#8d1a17</color>
+
+    <!--切换设备对话框界面-->
+    <color name="color_ed8931">#ed8931</color>
+    <color name="color_999999">#999999</color>
+
+    <!--CallBell界面-->
+    <color name="color_f21d1a">#f21d1a</color>
+    <color name="color_e08d47">#e08d47</color>
+    <color name="color_66ffffff">#66ffffff</color>
+    <color name="color_bab6b3">#bab6b3</color>
+    <color name="color_ff0000">#ff0000</color>
+    <color name="color_00ff00">#00ff00</color>
+    <color name="color_0000ff">#0000ff</color>
+    <color name="color_e53f39">#e53f39</color>
+
+    <!--预约界面-->
+    <color name="color_33000000">#33000000</color>
+    <color name="color_33ffffff">#33ffffff</color>
+    <color name="color_cccccc">#cccccc</color>
+    <color name="color_625a58">#625a58</color>
+
+    <!--相机功能(识别胶囊、扫描快递单、扫描激活码)对话框-->
+    <color name="color_680d0a">#680d0a</color>
+
+    <color name="color_f5f5f5">#f5f5f5</color>
+
+</resources>

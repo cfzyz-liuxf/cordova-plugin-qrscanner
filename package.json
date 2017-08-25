@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-qrscanner",
+  "version": "0.0.1",
+  "description": "QrScanner",
+  "cordova": {
+    "id": "cordova-plugin-qrscanner",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "qrscanner",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Liuxf",
+  "license": "Apache 2.0 License"
+}
